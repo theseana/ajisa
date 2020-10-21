@@ -1,0 +1,5 @@
+variables :
+    dont start with numbers
+    cant use symbols except  "_"
+    dont use space
+    dont use reserve name as variable like: print, type,....

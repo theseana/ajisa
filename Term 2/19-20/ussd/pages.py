@@ -10,16 +10,14 @@ Irancell Network
 0. Exit"""
 
 page_1 = """################
-
    ACCOUNT
 
 1. Balance
 2. Charge
 
-0. Exit"""
+0. Back"""
 
 page_2 = """################
-
    Monthly
 
 1. 15G 28,000T
